@@ -7,7 +7,11 @@ class Footer extends Component {
         return (
           <li key={network.name}>
             <a href={network.url} target="_blank" rel="noopener noreferrer">
-              <i className={network.className}></i>
+              <span
+                role="img"
+                aria-label="image"
+                className={network.className}
+              ></span>
             </a>
           </li>
         );
@@ -21,7 +25,7 @@ class Footer extends Component {
             <ul className="social-links">{networks}</ul>
 
             <ul>
-              <li>Modified with love by the Chiragkumar Maniyar ♥️</li>
+              <li>Modified with love by the Chiragkumar Maniyar </li>
             </ul>
 
             <ul className="copyright">
@@ -38,7 +42,7 @@ class Footer extends Component {
           </div>
           <div id="go-top">
             <a className="smoothscroll" title="Back to Top" href="#home">
-              <i className="icon-up-open"></i>
+              <span role='img' aria-label='image' className="icon-up-open"></span>
             </a>
           </div>
         </div>

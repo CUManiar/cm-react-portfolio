@@ -11,7 +11,7 @@ class Header extends Component {
         return (
           <li key={network.name}>
             <a href={network.url} target="_blank" rel="noopener noreferrer">
-              <i className={network.className}></i>
+              <span role='img' aria-label='image' className={network.className}></span>
             </a>
           </li>
         );
