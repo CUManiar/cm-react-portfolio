@@ -1,0 +1,150 @@
+{
+  "main": {
+    "name": "Chiragkumar Maniyar",
+    "occupation": "ReactJS Developer && Consultant @Xebia IT Architects",
+    "description": "Full Stack React Developer by Day, Freelancer by Night. #daddyReact",
+    "image": "IG_Chirag2.png",
+    "bio": "My name is Chirag, I'm a Full Stack ReactJS Developer. Currently I'm working at Xebia IT Architects Programmer while also coaching ",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "chiragma18633@gmail.com",
+    "phone": "(+91)-78 74 61 95 39",
+    "address": {
+      "street": "3, Silver Oak Apartments",
+      "city": "Pune",
+      "state": "India",
+      "zip": "411014"
+    },
+    "website": "",
+    "resumedownload": "./downloads/chirag-maniyar-full-stack.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/cumaniar",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/chiragkumar-maniyar-37017492/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/charminggg_chirag/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/cumaniar",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/Maniarchirag57",
+        "className": "fa fa-twitter"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here are some of my skills with my expertise",
+    "education": [
+      {
+        "school": "Government Engineering College, Bhavnagar",
+        "degree": "Bachelor of Engineering in Electronics & Communications",
+        "graduated": "Jun 2017",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Xebia IT Architects",
+        "title": "Software Consultant",
+        "years": "Sept 2020 - Present",
+        "description": "Building React components for exiting online development website"
+      },
+      {
+        "company": "Aspect Ratio",
+        "title": "Full Stack Developer",
+        "years": "Oct 2019 - Sept 2020",
+        "description": "Building Affordability tool which monitors world wide revenue affecting factors. Also, developed some part of revenue forecasting model online platform for clients."
+      },
+      {
+        "company": "Cybage Softwares",
+        "title": "Software Engineer",
+        "years": "March 2018 - Sept 2019",
+        "description": "Developed front end of highly distributed and modular web applications. Also, automated the functional testing plus writing unit testing to every block of code developed!"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "95%"
+      },
+      {
+        "name": "Angular",
+        "level": "85%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Amazon Clone",
+        "category": "Amazon Clone built with React Firebase (Firebase Functions, ExpressJS, ReactJS, Firebase Database)",
+        "image": "amazon-clone.PNG",
+        "url": "https://cm--clone.web.app/"
+      },
+      {
+        "title": "Smart Brain for Face Detection",
+        "category": "Face detection app built with React (PostgreSQL, ExpressJS, ReactJS, NodeJS)",
+        "image": "smart-brain.jpg",
+        "url": "https://cm-smart-brain.herokuapp.com/"
+      },
+      {
+        "title": "Color Matcher Game",
+        "category": "Color matcher game built with vanilla JavaScript",
+        "image": "color-match.jpg",
+        "url": "https://cumaniar.github.io/color-match-game/"
+      },
+      {
+        "title": "Bio Creator",
+        "category": "Generate PDF formatted bio data by filling details built with ReactJS  ",
+        "image": "biodata.jpg",
+        "url": "https://cumaniar.github.io/bio-creator/"
+      },
+      {
+        "title": "Personal Portfolio",
+        "category": "Portfolio website holding my github projects and blogs information built with Angular",
+        "image": "cm-portfolio.jpg",
+        "url": "https://cumaniar.github.io/portfolio/home"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "I rarely come across real talents who stand out like Chirag. I had the pleasure of working with Chirag for one year at the Aspect Ratio. Chirag’s ability to work on multiple projects was unlike any I’ve seen before and made a dramatic increase in the productivity level of our company. No matter how tense a meeting, Chirag made sure everyone left with a smile. As a team member, Chirag earns my highest recommendation.",
+        "user": "Abhijeet Lokhande (Sr. Software Engineer @ AdvaRisk)"
+      },
+      {
+        "text": "Chirag is wonderful to work with and has exceptional expertise in programming. He is dedicated, self-motivated, methodical and very capable. He is not only a reliable and forward thinking guy but also an inspiring team player.",
+        "user": "Navneet Rajput (Sr. Software Engineer @ Cybage Softwares)"
+      }
+    ]
+  }
+}
