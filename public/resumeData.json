@@ -132,6 +132,12 @@
         "category": "Portfolio website holding my github projects and blogs information built with Angular",
         "image": "cm-portfolio.jpg",
         "url": "https://cumaniar.github.io/portfolio/home"
+      },
+      {
+        "title": "Weather PWA App",
+        "category": "Weather PWA(Progressive Web App) built with React",
+        "image": "weather-pwa.jpg",
+        "url": "https://weather-pwa-app.netlify.app/"
       }
     ]
   },
