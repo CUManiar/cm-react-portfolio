@@ -15,7 +15,7 @@
       "zip": "411014"
     },
     "website": "",
-    "resumedownload": "./downloads/chirag-maniyar-full-stack.pdf",
+    "resumedownload": "./downloads/Chirag Maniar Full Stack Developer 3 Year.pdf",
     "social": [
       {
         "name": "facebook",
@@ -59,7 +59,7 @@
         "company": "Xebia IT Architects",
         "title": "Software Consultant",
         "years": "Sept 2020 - Present",
-        "description": "Building React components for exiting online development website"
+        "description": "Leading a team for future banking app. Building React components for exiting online development website."
       },
       {
         "company": "Aspect Ratio",
@@ -76,23 +76,31 @@
     ],
     "skills": [
       {
-        "name": "ReactJs",
+        "name": "JavaScript",
         "level": "95%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "React Native",
+        "level": "70%"
       },
       {
         "name": "Angular",
         "level": "85%"
       },
       {
-        "name": "CSS",
-        "level": "90%"
-      },
-      {
         "name": "Git",
         "level": "60%"
       },
       {
-        "name": "HTML5",
+        "name": "Python",
+        "level": "80%"
+      },
+      {
+        "name": "TypeScript",
         "level": "80%"
       },
       {
@@ -145,7 +153,7 @@
     "testimonials": [
       {
         "text": "I rarely come across real talents who stand out like Chirag. I had the pleasure of working with Chirag for one year at the Aspect Ratio. Chirag’s ability to work on multiple projects was unlike any I’ve seen before and made a dramatic increase in the productivity level of our company. No matter how tense a meeting, Chirag made sure everyone left with a smile. As a team member, Chirag earns my highest recommendation.",
-        "user": "Abhijeet Lokhande (Sr. Software Engineer @ AdvaRisk)"
+        "user": "Abhijeet Lokhande (Data Science Student @Kings College of London (Ex-Advarisk))"
       },
       {
         "text": "Chirag is wonderful to work with and has exceptional expertise in programming. He is dedicated, self-motivated, methodical and very capable. He is not only a reliable and forward thinking guy but also an inspiring team player.",
