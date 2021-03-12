@@ -15,7 +15,7 @@
       "zip": "411014"
     },
     "website": "",
-    "resumedownload": "./downloads/Chirag Maniar Full Stack Developer 3 Year.pdf",
+    "resumedownload": "./downloads/Chirag Maniyar Full Stack Developer 3 Year.pdf",
     "social": [
       {
         "name": "facebook",
@@ -146,6 +146,12 @@
         "category": "Weather PWA(Progressive Web App) built with React",
         "image": "weather-pwa.jpg",
         "url": "https://weather-pwa-app.netlify.app/"
+      },
+      {
+        "title": "Firebase Authentication with Email & Password",
+        "Category": "Authenticate user with email and password using Firebase",
+        "image": "firebase-auth-prototype.jpg",
+        "url": "https://firebase-auth-prototype-reactjs.netlify.app/"
       }
     ]
   },
