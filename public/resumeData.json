@@ -15,7 +15,7 @@
       "zip": "411014"
     },
     "website": "",
-    "resumedownload": "./downloads/Chirag Maniyar Full Stack Developer 3 Year.pdf",
+    "resumeDownload": "./downloads/Chirag Maniyar Full Stack Developer 3 Year.pdf",
     "social": [
       {
         "name": "facebook",
@@ -93,19 +93,23 @@
       },
       {
         "name": "Git",
-        "level": "60%"
+        "level": "80%"
       },
       {
         "name": "Python",
-        "level": "80%"
+        "level": "60%"
       },
       {
         "name": "TypeScript",
         "level": "80%"
       },
       {
-        "name": "MongoDB",
-        "level": "80%"
+        "name": "Java",
+        "level": "60%"
+      },
+      {
+        "name": "Micro Services",
+        "level": "60%"
       }
     ]
   },
@@ -149,7 +153,7 @@
       },
       {
         "title": "Firebase Authentication with Email & Password",
-        "Category": "Authenticate user with email and password using Firebase",
+        "category": "Authenticate user with email and password using Firebase",
         "image": "firebase-auth-prototype.jpg",
         "url": "https://firebase-auth-prototype-reactjs.netlify.app/"
       }
@@ -163,7 +167,7 @@
       },
       {
         "text": "Chirag is wonderful to work with and has exceptional expertise in programming. He is dedicated, self-motivated, methodical and very capable. He is not only a reliable and forward thinking guy but also an inspiring team player.",
-        "user": "Navneet Rajput (Sr. Software Engineer @ Cybage Softwares)"
+        "user": "Navneet Rajput (Sr. Software Engineer @ Bank of America)"
       }
     ]
   }
