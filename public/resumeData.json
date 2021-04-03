@@ -41,6 +41,16 @@
         "name": "twitter",
         "url": "https://twitter.com/Maniarchirag57",
         "className": "fa fa-twitter"
+      },
+      {
+        "name": "stack overflow",
+        "url": "https://stackoverflow.com/users/11396275/chirag-maniar",
+        "className": "fa fa-stack-overflow"
+      },
+      {
+        "name": "medium",
+        "url": "https://cumaniar.medium.com/",
+        "className": "fa fa-code"
       }
     ]
   },

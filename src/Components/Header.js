@@ -1,14 +1,25 @@
-import React from "react";
+import React, { useState } from "react";
 
 const Header = ({ data }) => {
+  const [active, setActive] = useState(null);
   if (data) {
     var name = data.name;
     var occupation = data.occupation;
     var description = data.description;
     var city = data.address.city;
+
+    const handleHover = (e) => {
+      console.log(e);
+      setActive(e);
+    };
+
     var networks = data.social.map(function (network) {
       return (
-        <li key={network.name}>
+        <li
+          key={network.name}
+          onMouseEnter={() => handleHover(network.name)}
+          onMouseLeave={() => handleHover("")}
+        >
           <a href={network.url} target="_blank" rel="noopener noreferrer">
             <span
               role="img"
@@ -71,7 +82,10 @@ const Header = ({ data }) => {
             I'm a {city} based <span>{occupation}</span>. {description}.
           </h3>
           <hr />
-          <ul className="social">{networks}</ul>
+          <h4 className="network-name">{active}</h4>
+          <div>
+            <ul className="social">{networks}</ul>
+          </div>
         </div>
       </div>
 

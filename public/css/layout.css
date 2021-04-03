@@ -88,21 +88,25 @@ header .banner-text hr {
 
 /* header social links */
 header .social {
-  margin: 24px 0;
+  /* margin: 24px 0; */
   padding: 0;
   font-size: 30px;
   text-shadow: 0px 1px 2px rgba(0, 0, 0, 0.8);
 }
 header .social li {
   display: inline-block;
-  margin: 0 15px;
-  padding: 0;
+  padding: 15px;
+  /* margin: 5px; */
 }
 header .social li a {
   color: #fff;
 }
 header .social li a:hover {
   color: #11abb0;
+}
+.network-name {
+  color: white;
+  text-transform: capitalize;
 }
 
 /* scrolldown link */
@@ -716,7 +720,8 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #testimonials {
-  background: #1f1f1f url(../images/book-bg.jpg) no-repeat center center;
+  background: #1f1f1f url(../images/testimonials-bg2.jpg) no-repeat center
+    center;
   background-size: cover !important;
   -webkit-background-size: cover !important;
   background-attachment: fixed;
@@ -750,7 +755,7 @@ call-to-action .button {
   line-height: 72px;
   text-align: left;
   float: left;
-  color: #000;
+  color: #fff;
 }
 
 /*	Blockquotes */
@@ -766,16 +771,16 @@ call-to-action .button {
 #testimonials blockquote p {
   font-family: "librebaskerville-italic", serif;
   padding: 0;
-  font-size: 2rem;
+  font-size: 2.5rem;
   line-height: 48px;
-  color: #000;
+  color: darksalmon;
 }
 #testimonials blockquote cite {
   display: block;
-  font-size: 1.5rem;
+  font-size: 1.7rem;
   font-style: normal;
   line-height: 18px;
-  color: #000;
+  color: yellow;
 }
 #testimonials blockquote cite:before {
   content: "\2014 \0020";
