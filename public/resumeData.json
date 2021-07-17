@@ -106,8 +106,8 @@
         "level": "80%"
       },
       {
-        "name": "Python",
-        "level": "60%"
+        "name": "Spring Boot",
+        "level": "65%"
       },
       {
         "name": "TypeScript",
@@ -118,8 +118,8 @@
         "level": "60%"
       },
       {
-        "name": "Micro Services",
-        "level": "60%"
+        "name": "Microservices",
+        "level": "70%"
       }
     ]
   },
@@ -166,6 +166,12 @@
         "category": "Authenticate user with email and password using Firebase",
         "image": "firebase-auth-prototype.jpg",
         "url": "https://firebase-auth-prototype-reactjs.netlify.app/"
+      },
+      {
+        "title": "Alchemist - The eLearning Platform",
+        "category": "Alchemist is a eLearning Platform which provides different examination mentorships",
+        "image": "alchemist.png",
+        "url": "https://alchemist-elearning.netlify.app"
       }
     ]
   },
